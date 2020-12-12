@@ -11,6 +11,6 @@ PART-04 The fourth week was an introduction to the object-oriented programming p
 
 PART-05 The fifth week further explored object-oriented programming (method & constructor overloading), reading file data, overriding, primitive vs reference variables...
 
-PART-06 The sixth week gave an introduction to manual testing with System.out.println and testing with JUnit and explained how to seperate user interface with programm logic.
+PART-06 The sixth week gave an introduction to manual testing with System.out.println, testing with JUnit and explained how to seperate user interface from programm logic.
 
-PART-07 The seventh week was focused on programming paradigms, algorithms and tested all previous aqcuired knowledge with large exercises.
+PART-07 The seventh week was focused on programming paradigms, algorithms and testing all previous acquired knowledge with large exercises.
